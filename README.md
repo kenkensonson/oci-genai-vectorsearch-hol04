@@ -1,8 +1,3 @@
-本記事は日本オラクルが運営する下記Meetupで発表予定の内容になります。発表までに今後、内容は予告なく変更される可能性があることをあらかじめご了承ください。
-
-https://oracle-code-tokyo-dev.connpass.com/
-
-
 # はじめに
 これまで BETAリリースだった Oracle Database のベクトルデータベース機能 AI Vector Search を搭載したバージョンが先日ようやく正式リリースとなりました。その名は Oracle Database 23ai です。これまであらゆるワークロードを取り入れてきた Oracle Database ですが、晴れてベクトルデータベースのカテゴリに仲間入りです。
 
